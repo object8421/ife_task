@@ -14,6 +14,9 @@ class home extends MY_Controller {
 		$this->load->view("task/task1_view");
 	}
 	
+	function shopnc() {
+		$this->load->view("task/shopnc_view");
+	}
 
 }
 
