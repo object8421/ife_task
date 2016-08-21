@@ -3,6 +3,8 @@
 
 <head>
 	<meta charset="utf-8" />
+	<base href="<?=base_url()?>"/>
+	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
